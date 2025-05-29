@@ -356,7 +356,6 @@ body {
     color: #495057;
 }
 
-/* Responsive */
 @media (max-width: 768px) {
     .nav-links {
         display: none;
